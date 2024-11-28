@@ -21,6 +21,7 @@ Entities: Member, Book, Author.
 Relationships:
 Member ↔ Book: A member can borrow multiple books, but each book is tied to one member at a time.
 Book ↔ Author: A book may have one or more authors, and an author can write multiple books.
+
 🏥 Expanding My Thinking: Hospital System:
 
 To broaden my perspective, I took on the challenge of creating an ER diagram for a hospital system:
